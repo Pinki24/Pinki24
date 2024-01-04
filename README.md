@@ -3,16 +3,16 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=pinki24&label=Profile%20views&color=0e75b6&style=flat" alt="pinki24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinki24&label=Profile%20views&color=0e75b6&style=flat" alt="pinki24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pinkish29821189" target="blank"><img src="https://img.shields.io/twitter/follow/pinkish29821189?logo=twitter&style=for-the-badge" alt="pinkish29821189" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pinkish29821189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pinkish29821189" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pinkisharma-p2526/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pinkisharma-p2526/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pinkisharmanwg?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pinkisharmanwg?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__pinki_sharma__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__pinki_sharma__/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pinkisharma-p2526/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinkisharma-p2526/" height="30" width="40" /></a>
+<a href="https://fb.com/pinkisharmanwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pinkisharmanwg" height="30" width="40" /></a>
+<a href="https://instagram.com/__pinki_sharma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pinki_sharma__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/pinkisharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pinkisharma/" height="30" width="40" /></a>
 </p>
 
